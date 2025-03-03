@@ -5,4 +5,4 @@ The code of the paper "Beyond Visual Quality: Semantic-Driven Low-Light Image En
 Code is coming soon
 
 ## Contact
-If you have any questions, feel free to reach out via [email](zixuans.edu@gmail.com).
+If you have any questions, feel free to reach out via [email] (zixuans.edu@gmail.com).
