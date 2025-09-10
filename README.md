@@ -1,7 +1,7 @@
 # LLIE-cmsr
 
 ## Overview
-The code of the paper "VLM-Driven Fine-Grained Semantic Regularization for Low-Light Image Enhancement". This project is currently under development. Stay tuned for updates!
+The code of the paper "VLM-Driven Fine-Grained Semantic Regularization for Low-Light Image Enhancement". 
 
 ## Code is coming soon
 I will upload the code as soon as the paper is accepted. Thank you for your support！
